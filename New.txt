@@ -1,1 +1,13 @@
-hello how are you?
+To import files to the github
+=============================
+
+1.git config --global user.name "SRINIVAS1SRIRAM"
+2.git config --global user.email srinivas1sriram@gmail.com
+3.git clone (copy the repository link and paste it)
+4.git add (filename)	//to add the file
+5.git status 	//to view the status
+6.git commit -m "comments" (filename) //to commit the file
+7.git push -u origin master	//to push the file
+
+
+if the file is edited repeat step 6 and 7 .
