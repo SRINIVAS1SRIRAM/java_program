@@ -11,4 +11,4 @@ To import files to the github
 8.git push -u origin master	//to push the file
 
 
-if the file is edited repeat step 6 and 7 .
+if the file is edited repeat step 7 and 8 .
