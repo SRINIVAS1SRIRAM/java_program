@@ -5,5 +5,6 @@
  * @author S.SRINIVAS
  *
  */
-module HelloWorld {
+module typeCasting {
+	requires java.sql;
 }
