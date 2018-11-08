@@ -8,7 +8,8 @@ To import files to the github
 5.git add (filename)	//to add the file
 6.git status 	//to view the status
 7.git commit -m "comments" (filename) //to commit the file
-8.git push -u origin master	//to push the file
+8.git remote add origin (copy the link and paste it)
+9.git push -u origin master	//to push the file
 
 
-if the file is edited repeat step 7 and 8 .
+if the file is edited repeat step 7, 8 and 9.
